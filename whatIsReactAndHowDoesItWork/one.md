@@ -1,7 +1,11 @@
-<h1 style = 'text-align: center'
->WHAT IS REACT AND HOW DOES IT WORK</h1>
+<h1 style = 'text-align: center; color: #020557'
+>
+    WHAT IS REACT AND HOW DOES IT WORK
+</h1>
 
-<h2 style = 'text-align: center'>What is ReactJS?</h2>
+<h2 style = 'text-align: center; color: #196F3D '>
+    What is ReactJS?
+</h2>
 <p>
     React is an open-source javaScript library for building user interfaces which is maintained by Facebook.In other words, react is the view layer for web applications(web and mobile apps).
     React can be used as a base in the development of single-page or mobile applications.
@@ -15,7 +19,9 @@
     React has been designed from the start for gradual adoption, and you can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app,
 </p>
 
-<h2 style = 'text-align: center'>What are ReactJS features?</h2>
+<h2 style = 'text-align: center; color: #196F3D'>
+    What are ReactJS features?
+</h2>
 <ul>
     <li>JSX:  JSX is simple JavaScript which allows HTML quoting and uses these HTML tag syntax to render subcomponents.</li>
     <li>React Native</li>
